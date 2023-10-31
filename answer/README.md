@@ -1,6 +1,6 @@
-# Pulumi training using TypeScript (3rd session)
+# Pulumi training using C# (3rd session)
 
-Answers to the 3rd training 3rd session
+Answers to the 3rd training session
 
 ## Answers
 

@@ -1,6 +1,6 @@
 # Pulumi training using C# (3rd session)
 
-Exercises to learn how to use Pulumi (3rd session)
+Exercise to learn how to use Pulumi (3rd session)
 
 ## Introduction
 
